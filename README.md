@@ -8,18 +8,18 @@ Welcome to my portfolio of data science projects and case studies. Here you will
 
 
 - 🔭 I’m currently working on Accountfy
-- 🌱 I’m currently learning [Technology or Topic]
-- 👯 I’m looking to collaborate on [Type of Projects]
+- 🌱 I’m currently learning LLMs (Large Language Model) and GPT for data analysis
+- 👯 I’m looking to collaborate on data science projetos
 - 🤔 I’m looking for help with [Topic or Project]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Your Email]
+- 💬 Ask me about Data Science, Data Analytics
+- 📫 How to reach me: luizoliveira.consultoria@gmail.com / contato@luizoliveiramedados.com.br
 - ⚡ Fun fact: [Interesting fact about you]
 
 ## Technical Skills
 
-- **Programming Languages:** Python, R, SQL
-- **Tools and Technologies:** Jupyter Notebook, Apache Spark, Tableau
-- **Libraries and Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Programming Languages:** Python, R, SQL, C#
+- **Tools and Technologies:** Jupyter Notebook, Apache Spark, Tableau, PowerBI, Looker, LookML, Apache Superset
+- **Libraries and Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch +
 
 ## Projects
 
